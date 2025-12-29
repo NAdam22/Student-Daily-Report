@@ -1,4 +1,4 @@
-# Student-Daily-Report
+# Student-Daily-Report C#
 
 This Program Includes
 Proper data types (string, int, bool)
